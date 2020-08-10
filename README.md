@@ -3,8 +3,8 @@
 ## Description
 
 Providing all the standard arithmetic operations, such as addition, subtraction,
-multiplication, integer division, and <img src="https://render.githubusercontent.com/render/math?math=O(\log n)"> time exponentiation.
-Fancy things like the Karatsuba algorithm and potentially multiplication based on a fast Fourier transform is yet to come.
+multiplication, integer division, and O(log(n))-time exponentiation.
+Fancy things like the Karatsuba algorithm and potentially multiplication based on a fast Fourier transform are yet to come.
 
 ## Running the example
 
